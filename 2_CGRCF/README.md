@@ -1,17 +1,6 @@
 # CGRCF
 - Channel graph regularized correlation filters for visual object tracking
 
-## Citation
-Please cite the above publication if you use the code or compare with the CGRCF tracker in your work. Bibtex entry:
-```
-@article{jain2021channel,
-  title={Channel graph regularized correlation filters for visual object tracking},
-  author={Jain, Monika and Tyagi, Arjun and Subramanyam, AV and Denman, Simon and Sridharan, Sridha and Fookes, Clinton},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2021},
-  publisher={IEEE}
-} 
-```
 ## Instructions to run the tracker
 1. Install MATLAB_R2020a
 2. Clone the repository
@@ -46,3 +35,15 @@ Please cite the above publication if you use the code or compare with the CGRCF 
 [VOT2018](https://www.votchallenge.net/vot2018/dataset.html)
 [VOT2019](https://www.votchallenge.net/vot2019/dataset.html)
 [NFS](http://www.ci2cv.net/projects/need-for-speed-dataset/)
+
+## Citation
+Please cite the above publication if you use the code or compare with the CGRCF tracker in your work. Bibtex entry:
+```
+@article{jain2021channel,
+  title={Channel graph regularized correlation filters for visual object tracking},
+  author={Jain, Monika and Tyagi, Arjun and Subramanyam, AV and Denman, Simon and Sridharan, Sridha and Fookes, Clinton},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2021},
+  publisher={IEEE}
+} 
+```
